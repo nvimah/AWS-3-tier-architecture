@@ -1,6 +1,7 @@
 # AWS 3-Tier Web Application Architecture
 
-![AWS Architecture](Tier3Topology.png)
+<img width="971" height="601" alt="Tier3Topology" src="https://github.com/user-attachments/assets/dbd44c1f-5801-4bb7-9cf6-d7069d836d90" />
+
 
 ## 🏗️ Project Overview
 
