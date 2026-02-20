@@ -816,9 +816,9 @@ This project is intended for educational purposes. Feel free to use, modify, and
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/nvimah)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/sharon-wainaina-556206395/)
-- Blog: [yourblog.com](https://medium.com/@wainainasharon15)
+- GitHub: [@nvimah](https://github.com/nvimah)
+- LinkedIn: [Wainaina Sharon](https://www.linkedin.com/in/sharon-wainaina-556206395/)
+- Blog: [WainainaSharon.com](https://medium.com/@wainainasharon15)
 
 ---
 
